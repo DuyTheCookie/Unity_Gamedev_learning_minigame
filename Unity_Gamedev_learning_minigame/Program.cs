@@ -10,3 +10,4 @@ namespace Unity_Gamedev_learning_minigame
         }
     }
 }
+Test
