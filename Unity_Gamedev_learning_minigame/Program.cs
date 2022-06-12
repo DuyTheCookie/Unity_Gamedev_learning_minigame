@@ -9,7 +9,7 @@ namespace Unity_Gamedev_learning_minigame
         static int player = 1;
         static char playerChar1 = 'x';
         static char playerChar2 = 'o';
-        static int pos;
+        static int pos; dadsadasdasdas
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Tic tac Toe the mini game");
